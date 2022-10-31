@@ -1,0 +1,12 @@
+{
+  "description": "Doctor's (dynosaurio) Website",
+  "owner": {
+    "username": "doctormagico",
+    "email": "dynosaurio@dynoservices.ml",
+    "twitter": "dynosaurio_"
+    "discord": "! Doctor Magico ᵈʸⁿᵒ#8085"
+  },
+  "record": {
+    "CNAME": "dynosaurio.ml"
+  }
+}
